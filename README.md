@@ -4,4 +4,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
 
-![](C:\Kullanıcılar\Pc\Masaüstü\git1.PNG)
+<img src="https://github.com/bugra-celik/kodluyoruzilkrepo/blob/main/git1.PNG" width="auto">
